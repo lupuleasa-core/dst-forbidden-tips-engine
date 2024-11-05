@@ -29,4 +29,7 @@ STRINGS.FORBIDDEN_LOADINGTIPS = {
     "Terrarium gives light even when inactive and can prevent Charlie attacks if dropped at your feet.",
     "If you stand on the oasis lake when summer starts the oasis lake will not fill up with water, nor activate the sandstorm and Antlion.",
     "Sandstorm, Antlion and Wildfires cannot occur during rain. Wickerbottom's rain book is perfect for summer.",
+    "Many creatures will chase you for 33% longer distance during spring.",
+    "Spider Nests will have their guard spawning radius increased by 33% in spring. Meaning guards can spawn when attacking spiders outside the webbing.",
+    "Fire has a smaller damage radius during spring, allowing you to attack burning mobs without taking damage.",
 }
